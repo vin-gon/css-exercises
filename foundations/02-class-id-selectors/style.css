@@ -1,0 +1,19 @@
+.foo {
+    background-color: rgb(255, 200, 200);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second {
+    color: rgb(3, 3, 231);
+    font-size: 36px;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(200, 255, 200);
+    font-size: 24px;
+    font-weight: bold;
+}
